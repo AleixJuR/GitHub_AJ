@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, Montilivi!");
             Console.WriteLine("Respository try");
-            Console.WriteLine("Editat per Arnau!!");
+            Console.WriteLine("Soc l'Aleix i m'encanta Xupar polles visca els maricons :) !!");
         }
     }
 }
